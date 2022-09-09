@@ -1,2 +1,2 @@
 # transformers
-This will contain all the transformers basic codes, from scratch to understand the transformer architecture
+This will contain transformer basic codes, from scratch to understand the transformer architecture
